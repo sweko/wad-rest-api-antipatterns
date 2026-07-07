@@ -1,0 +1,364 @@
+{
+    "nationalities": [
+      { "id": 1, "name": "American" },
+      { "id": 2, "name": "British" },
+      { "id": 3, "name": "Canadian" },
+      { "id": 4, "name": "Chinese" },
+      { "id": 5, "name": "Polish" },
+      { "id": 6, "name": "French" },
+      { "id": 7, "name": "Finnish" },
+      { "id": 8, "name": "Nigerian-American" }
+    ],
+    "authors": [
+      {
+        "id": 1,
+        "name": "Isaac Asimov",
+        "born": 1920,
+        "died": 1992,
+        "nationalityId": 1
+      },
+      {
+        "id": 2,
+        "name": "Ursula K. Le Guin",
+        "born": 1929,
+        "died": 2018,
+        "nationalityId": 1
+      },
+      {
+        "id": 3,
+        "name": "Arthur C. Clarke",
+        "born": 1917,
+        "died": 2008,
+        "nationalityId": 2
+      },
+      {
+        "id": 4,
+        "name": "Octavia E. Butler",
+        "born": 1947,
+        "died": 2006,
+        "nationalityId": 1
+      },
+      {
+        "id": 5,
+        "name": "Liu Cixin",
+        "born": 1963,
+        "died": null,
+        "nationalityId": 4
+      },
+      {
+        "id": 6,
+        "name": "Philip K. Dick",
+        "born": 1928,
+        "died": 1982,
+        "nationalityId": 1
+      },
+      {
+        "id": 7,
+        "name": "Robert A. Heinlein",
+        "born": 1907,
+        "died": 1988,
+        "nationalityId": 1
+      },
+      {
+        "id": 8,
+        "name": "Ray Bradbury",
+        "born": 1920,
+        "died": 2012,
+        "nationalityId": 1
+      },
+      {
+        "id": 9,
+        "name": "Douglas Adams",
+        "born": 1952,
+        "died": 2001,
+        "nationalityId": 2
+      },
+      {
+        "id": 10,
+        "name": "Frank Herbert",
+        "born": 1920,
+        "died": 1986,
+        "nationalityId": 1
+      },
+      {
+        "id": 11,
+        "name": "Stanisław Lem",
+        "born": 1921,
+        "died": 2006,
+        "nationalityId": 5
+      },
+      {
+        "id": 12,
+        "name": "Jules Verne",
+        "born": 1828,
+        "died": 1905,
+        "nationalityId": 6
+      },
+      {
+        "id": 13,
+        "name": "H.G. Wells",
+        "born": 1866,
+        "died": 1946,
+        "nationalityId": 2
+      },
+      {
+        "id": 14,
+        "name": "Aldous Huxley",
+        "born": 1894,
+        "died": 1963,
+        "nationalityId": 2
+      },
+      {
+        "id": 15,
+        "name": "Margaret Atwood",
+        "born": 1939,
+        "died": null,
+        "nationalityId": 3
+      },
+      {
+        "id": 16,
+        "name": "William Gibson",
+        "born": 1948,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 17,
+        "name": "Kurt Vonnegut",
+        "born": 1922,
+        "died": 2007,
+        "nationalityId": 1
+      },
+      {
+        "id": 18,
+        "name": "Neal Stephenson",
+        "born": 1959,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 19,
+        "name": "Iain M. Banks",
+        "born": 1954,
+        "died": 2013,
+        "nationalityId": 2
+      },
+      {
+        "id": 20,
+        "name": "Orson Scott Card",
+        "born": 1951,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 21,
+        "name": "Dan Simmons",
+        "born": 1948,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 22,
+        "name": "Lois McMaster Bujold",
+        "born": 1949,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 23,
+        "name": "Connie Willis",
+        "born": 1945,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 24,
+        "name": "Ted Chiang",
+        "born": 1967,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 25,
+        "name": "Terry Pratchett",
+        "born": 1948,
+        "died": 2015,
+        "nationalityId": 2
+      },
+      {
+        "id": 26,
+        "name": "Vernor Vinge",
+        "born": 1944,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 27,
+        "name": "Samuel R. Delany",
+        "born": 1942,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 28,
+        "name": "China Miéville",
+        "born": 1972,
+        "died": null,
+        "nationalityId": 2
+      },
+      {
+        "id": 29,
+        "name": "Greg Bear",
+        "born": 1951,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 30,
+        "name": "Joanna Russ",
+        "born": 1937,
+        "died": 2011,
+        "nationalityId": 1
+      },
+      {
+        "id": 31,
+        "name": "Alastair Reynolds",
+        "born": 1966,
+        "died": null,
+        "nationalityId": 2
+      },
+      {
+        "id": 32,
+        "name": "James Tiptree Jr. (Alice Sheldon)",
+        "born": 1915,
+        "died": 1987,
+        "nationalityId": 1
+      },
+      {
+        "id": 33,
+        "name": "Larry Niven",
+        "born": 1938,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 34,
+        "name": "Frederik Pohl",
+        "born": 1919,
+        "died": 2013,
+        "nationalityId": 1
+      },
+      {
+        "id": 35,
+        "name": "Kim Stanley Robinson",
+        "born": 1952,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 36,
+        "name": "David Brin",
+        "born": 1950,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 37,
+        "name": "Anne McCaffrey",
+        "born": 1926,
+        "died": 2011,
+        "nationalityId": 1
+      },
+      {
+        "id": 38,
+        "name": "C.J. Cherryh",
+        "born": 1942,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 39,
+        "name": "John Scalzi",
+        "born": 1969,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 40,
+        "name": "Ken Liu",
+        "born": 1976,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 41,
+        "name": "Ann Leckie",
+        "born": 1966,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 42,
+        "name": "N.K. Jemisin",
+        "born": 1972,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 43,
+        "name": "Becky Chambers",
+        "born": 1985,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 44,
+        "name": "Martha Wells",
+        "born": 1964,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 45,
+        "name": "Hannu Rajaniemi",
+        "born": 1978,
+        "died": null,
+        "nationalityId": 7
+      },
+      {
+        "id": 46,
+        "name": "Nnedi Okorafor",
+        "born": 1974,
+        "died": null,
+        "nationalityId": 8
+      },
+      {
+        "id": 47,
+        "name": "Andy Weir",
+        "born": 1972,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 48,
+        "name": "Yoon Ha Lee",
+        "born": 1979,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 49,
+        "name": "Catherynne M. Valente",
+        "born": 1979,
+        "died": null,
+        "nationalityId": 1
+      },
+      {
+        "id": 50,
+        "name": "Jeff VanderMeer",
+        "born": 1968,
+        "died": null,
+        "nationalityId": 1
+      }
+    ]
+  }

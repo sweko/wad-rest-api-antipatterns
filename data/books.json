@@ -1,0 +1,1686 @@
+{
+    "series": [
+        {
+            "id": 1,
+            "name": "Foundation"
+        },
+        {
+            "id": 2,
+            "name": "Dune"
+        },
+        {
+            "id": 3,
+            "name": "Ender's Game"
+        },
+        {
+            "id": 4,
+            "name": "The Expanse"
+        },
+        {
+            "id": 5,
+            "name": "Hyperion Cantos"
+        },
+        {
+            "id": 6,
+            "name": "Culture"
+        },
+        {
+            "id": 7,
+            "name": "Remembrance of Earth's Past"
+        },
+        {
+            "id": 8,
+            "name": "Wayfarers"
+        },
+        {
+            "id": 9,
+            "name": "The Murderbot Diaries"
+        },
+        {
+            "id": 10,
+            "name": "Imperial Radch"
+        },
+        {
+            "id": 11,
+            "name": "Revelation Space"
+        },
+        {
+            "id": 12,
+            "name": "The Hitchhiker's Guide to the Galaxy"
+        },
+        {
+            "id": 13,
+            "name": "Vorkosigan Saga"
+        },
+        {
+            "id": 14,
+            "name": "The Broken Earth"
+        },
+        {
+            "id": 15,
+            "name": "Old Man's War"
+        },
+        {
+            "id": 16,
+            "name": "Zones of Thought"
+        },
+        {
+            "id": 17,
+            "name": "Earthsea"
+        },
+        {
+            "id": 18,
+            "name": "Bobiverse"
+        },
+        {
+            "id": 19,
+            "name": "The Martian"
+        },
+        {
+            "id": 20,
+            "name": "Ringworld"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "authorId": 1,
+            "title": "Foundation",
+            "seriesId": 1,
+            "seriesNumber": 1,
+            "publicationYear": 1951
+        },
+        {
+            "id": 2,
+            "authorId": 1,
+            "title": "Foundation and Empire",
+            "seriesId": 1,
+            "seriesNumber": 2,
+            "publicationYear": 1952
+        },
+        {
+            "id": 3,
+            "authorId": 1,
+            "title": "Second Foundation",
+            "seriesId": 1,
+            "seriesNumber": 3,
+            "publicationYear": 1953
+        },
+        {
+            "id": 4,
+            "authorId": 1,
+            "title": "Foundation's Edge",
+            "seriesId": 1,
+            "seriesNumber": 4,
+            "publicationYear": 1982
+        },
+        {
+            "id": 5,
+            "authorId": 1,
+            "title": "Foundation and Earth",
+            "seriesId": 1,
+            "seriesNumber": 5,
+            "publicationYear": 1986
+        },
+        {
+            "id": 6,
+            "authorId": 10,
+            "title": "Dune",
+            "seriesId": 2,
+            "seriesNumber": 1,
+            "publicationYear": 1965
+        },
+        {
+            "id": 7,
+            "authorId": 10,
+            "title": "Dune Messiah",
+            "seriesId": 2,
+            "seriesNumber": 2,
+            "publicationYear": 1969
+        },
+        {
+            "id": 8,
+            "authorId": 10,
+            "title": "Children of Dune",
+            "seriesId": 2,
+            "seriesNumber": 3,
+            "publicationYear": 1976
+        },
+        {
+            "id": 9,
+            "authorId": 10,
+            "title": "God Emperor of Dune",
+            "seriesId": 2,
+            "seriesNumber": 4,
+            "publicationYear": 1981
+        },
+        {
+            "id": 10,
+            "authorId": 10,
+            "title": "Heretics of Dune",
+            "seriesId": 2,
+            "seriesNumber": 5,
+            "publicationYear": 1984
+        },
+        {
+            "id": 11,
+            "authorId": 20,
+            "title": "Ender's Game",
+            "seriesId": 3,
+            "seriesNumber": 1,
+            "publicationYear": 1985
+        },
+        {
+            "id": 12,
+            "authorId": 20,
+            "title": "Speaker for the Dead",
+            "seriesId": 3,
+            "seriesNumber": 2,
+            "publicationYear": 1986
+        },
+        {
+            "id": 13,
+            "authorId": 20,
+            "title": "Xenocide",
+            "seriesId": 3,
+            "seriesNumber": 3,
+            "publicationYear": 1991
+        },
+        {
+            "id": 14,
+            "authorId": 20,
+            "title": "Children of the Mind",
+            "seriesId": 3,
+            "seriesNumber": 4,
+            "publicationYear": 1996
+        },
+        {
+            "id": 15,
+            "authorId": 39,
+            "title": "Leviathan Wakes",
+            "seriesId": 4,
+            "seriesNumber": 1,
+            "publicationYear": 2011
+        },
+        {
+            "id": 16,
+            "authorId": 39,
+            "title": "Caliban's War",
+            "seriesId": 4,
+            "seriesNumber": 2,
+            "publicationYear": 2012
+        },
+        {
+            "id": 17,
+            "authorId": 39,
+            "title": "Abaddon's Gate",
+            "seriesId": 4,
+            "seriesNumber": 3,
+            "publicationYear": 2013
+        },
+        {
+            "id": 18,
+            "authorId": 39,
+            "title": "Cibola Burn",
+            "seriesId": 4,
+            "seriesNumber": 4,
+            "publicationYear": 2014
+        },
+        {
+            "id": 19,
+            "authorId": 21,
+            "title": "Hyperion",
+            "seriesId": 5,
+            "seriesNumber": 1,
+            "publicationYear": 1989
+        },
+        {
+            "id": 20,
+            "authorId": 21,
+            "title": "The Fall of Hyperion",
+            "seriesId": 5,
+            "seriesNumber": 2,
+            "publicationYear": 1990
+        },
+        {
+            "id": 21,
+            "authorId": 21,
+            "title": "Endymion",
+            "seriesId": 5,
+            "seriesNumber": 3,
+            "publicationYear": 1996
+        },
+        {
+            "id": 22,
+            "authorId": 21,
+            "title": "The Rise of Endymion",
+            "seriesId": 5,
+            "seriesNumber": 4,
+            "publicationYear": 1997
+        },
+        {
+            "id": 23,
+            "authorId": 19,
+            "title": "Consider Phlebas",
+            "seriesId": 6,
+            "seriesNumber": 1,
+            "publicationYear": 1987
+        },
+        {
+            "id": 24,
+            "authorId": 19,
+            "title": "The Player of Games",
+            "seriesId": 6,
+            "seriesNumber": 2,
+            "publicationYear": 1988
+        },
+        {
+            "id": 25,
+            "authorId": 19,
+            "title": "Use of Weapons",
+            "seriesId": 6,
+            "seriesNumber": 3,
+            "publicationYear": 1990
+        },
+        {
+            "id": 26,
+            "authorId": 5,
+            "title": "The Three-Body Problem",
+            "seriesId": 7,
+            "seriesNumber": 1,
+            "publicationYear": 2008
+        },
+        {
+            "id": 27,
+            "authorId": 5,
+            "title": "The Dark Forest",
+            "seriesId": 7,
+            "seriesNumber": 2,
+            "publicationYear": 2008
+        },
+        {
+            "id": 28,
+            "authorId": 5,
+            "title": "Death's End",
+            "seriesId": 7,
+            "seriesNumber": 3,
+            "publicationYear": 2010
+        },
+        {
+            "id": 29,
+            "authorId": 43,
+            "title": "The Long Way to a Small, Angry Planet",
+            "seriesId": 8,
+            "seriesNumber": 1,
+            "publicationYear": 2014
+        },
+        {
+            "id": 30,
+            "authorId": 43,
+            "title": "A Closed and Common Orbit",
+            "seriesId": 8,
+            "seriesNumber": 2,
+            "publicationYear": 2016
+        },
+        {
+            "id": 31,
+            "authorId": 43,
+            "title": "Record of a Spaceborn Few",
+            "seriesId": 8,
+            "seriesNumber": 3,
+            "publicationYear": 2018
+        },
+        {
+            "id": 32,
+            "authorId": 44,
+            "title": "All Systems Red",
+            "seriesId": 9,
+            "seriesNumber": 1,
+            "publicationYear": 2017
+        },
+        {
+            "id": 33,
+            "authorId": 44,
+            "title": "Artificial Condition",
+            "seriesId": 9,
+            "seriesNumber": 2,
+            "publicationYear": 2018
+        },
+        {
+            "id": 34,
+            "authorId": 44,
+            "title": "Rogue Protocol",
+            "seriesId": 9,
+            "seriesNumber": 3,
+            "publicationYear": 2018
+        },
+        {
+            "id": 35,
+            "authorId": 44,
+            "title": "Exit Strategy",
+            "seriesId": 9,
+            "seriesNumber": 4,
+            "publicationYear": 2018
+        },
+        {
+            "id": 36,
+            "authorId": 41,
+            "title": "Ancillary Justice",
+            "seriesId": 10,
+            "seriesNumber": 1,
+            "publicationYear": 2013
+        },
+        {
+            "id": 37,
+            "authorId": 41,
+            "title": "Ancillary Sword",
+            "seriesId": 10,
+            "seriesNumber": 2,
+            "publicationYear": 2014
+        },
+        {
+            "id": 38,
+            "authorId": 41,
+            "title": "Ancillary Mercy",
+            "seriesId": 10,
+            "seriesNumber": 3,
+            "publicationYear": 2015
+        },
+        {
+            "id": 39,
+            "authorId": 31,
+            "title": "Revelation Space",
+            "seriesId": 11,
+            "seriesNumber": 1,
+            "publicationYear": 2000
+        },
+        {
+            "id": 40,
+            "authorId": 31,
+            "title": "Chasm City",
+            "seriesId": 11,
+            "seriesNumber": 2,
+            "publicationYear": 2001
+        },
+        {
+            "id": 41,
+            "authorId": 31,
+            "title": "Redemption Ark",
+            "seriesId": 11,
+            "seriesNumber": 3,
+            "publicationYear": 2002
+        },
+        {
+            "id": 42,
+            "authorId": 31,
+            "title": "Absolution Gap",
+            "seriesId": 11,
+            "seriesNumber": 4,
+            "publicationYear": 2003
+        },
+        {
+            "id": 43,
+            "authorId": 9,
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "seriesId": 12,
+            "seriesNumber": 1,
+            "publicationYear": 1979
+        },
+        {
+            "id": 44,
+            "authorId": 9,
+            "title": "The Restaurant at the End of the Universe",
+            "seriesId": 12,
+            "seriesNumber": 2,
+            "publicationYear": 1980
+        },
+        {
+            "id": 45,
+            "authorId": 9,
+            "title": "Life, the Universe and Everything",
+            "seriesId": 12,
+            "seriesNumber": 3,
+            "publicationYear": 1982
+        },
+        {
+            "id": 46,
+            "authorId": 9,
+            "title": "So Long, and Thanks for All the Fish",
+            "seriesId": 12,
+            "seriesNumber": 4,
+            "publicationYear": 1984
+        },
+        {
+            "id": 47,
+            "authorId": 9,
+            "title": "Mostly Harmless",
+            "seriesId": 12,
+            "seriesNumber": 5,
+            "publicationYear": 1992
+        },
+        {
+            "id": 48,
+            "authorId": 22,
+            "title": "Shards of Honor",
+            "seriesId": 13,
+            "seriesNumber": 1,
+            "publicationYear": 1986
+        },
+        {
+            "id": 49,
+            "authorId": 22,
+            "title": "Barrayar",
+            "seriesId": 13,
+            "seriesNumber": 2,
+            "publicationYear": 1991
+        },
+        {
+            "id": 50,
+            "authorId": 22,
+            "title": "The Warrior's Apprentice",
+            "seriesId": 13,
+            "seriesNumber": 3,
+            "publicationYear": 1986
+        },
+        {
+            "id": 51,
+            "authorId": 42,
+            "title": "The Fifth Season",
+            "seriesId": 14,
+            "seriesNumber": 1,
+            "publicationYear": 2015
+        },
+        {
+            "id": 52,
+            "authorId": 42,
+            "title": "The Obelisk Gate",
+            "seriesId": 14,
+            "seriesNumber": 2,
+            "publicationYear": 2016
+        },
+        {
+            "id": 53,
+            "authorId": 42,
+            "title": "The Stone Sky",
+            "seriesId": 14,
+            "seriesNumber": 3,
+            "publicationYear": 2017
+        },
+        {
+            "id": 54,
+            "authorId": 39,
+            "title": "Old Man's War",
+            "seriesId": 15,
+            "seriesNumber": 1,
+            "publicationYear": 2005
+        },
+        {
+            "id": 55,
+            "authorId": 39,
+            "title": "The Ghost Brigades",
+            "seriesId": 15,
+            "seriesNumber": 2,
+            "publicationYear": 2006
+        },
+        {
+            "id": 56,
+            "authorId": 39,
+            "title": "The Last Colony",
+            "seriesId": 15,
+            "seriesNumber": 3,
+            "publicationYear": 2007
+        },
+        {
+            "id": 57,
+            "authorId": 26,
+            "title": "A Fire Upon the Deep",
+            "seriesId": 16,
+            "seriesNumber": 1,
+            "publicationYear": 1992
+        },
+        {
+            "id": 58,
+            "authorId": 26,
+            "title": "A Deepness in the Sky",
+            "seriesId": 16,
+            "seriesNumber": 2,
+            "publicationYear": 1999
+        },
+        {
+            "id": 59,
+            "authorId": 2,
+            "title": "A Wizard of Earthsea",
+            "seriesId": 17,
+            "seriesNumber": 1,
+            "publicationYear": 1968
+        },
+        {
+            "id": 60,
+            "authorId": 2,
+            "title": "The Tombs of Atuan",
+            "seriesId": 17,
+            "seriesNumber": 2,
+            "publicationYear": 1971
+        },
+        {
+            "id": 61,
+            "authorId": 2,
+            "title": "The Farthest Shore",
+            "seriesId": 17,
+            "seriesNumber": 3,
+            "publicationYear": 1972
+        },
+        {
+            "id": 62,
+            "authorId": 49,
+            "title": "We Are Legion (We Are Bob)",
+            "seriesId": 18,
+            "seriesNumber": 1,
+            "publicationYear": 2016
+        },
+        {
+            "id": 63,
+            "authorId": 49,
+            "title": "For We Are Many",
+            "seriesId": 18,
+            "seriesNumber": 2,
+            "publicationYear": 2017
+        },
+        {
+            "id": 64,
+            "authorId": 49,
+            "title": "All These Worlds",
+            "seriesId": 18,
+            "seriesNumber": 3,
+            "publicationYear": 2017
+        },
+        {
+            "id": 65,
+            "authorId": 47,
+            "title": "The Martian",
+            "seriesId": 19,
+            "seriesNumber": 1,
+            "publicationYear": 2011
+        },
+        {
+            "id": 66,
+            "authorId": 33,
+            "title": "Ringworld",
+            "seriesId": 20,
+            "seriesNumber": 1,
+            "publicationYear": 1970
+        },
+        {
+            "id": 67,
+            "authorId": 33,
+            "title": "The Ringworld Engineers",
+            "seriesId": 20,
+            "seriesNumber": 2,
+            "publicationYear": 1979
+        },
+        {
+            "id": 68,
+            "authorId": 2,
+            "title": "The Dispossessed",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1974
+        },
+        {
+            "id": 69,
+            "authorId": 3,
+            "title": "Childhood's End",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1953
+        },
+        {
+            "id": 70,
+            "authorId": 4,
+            "title": "Parable of the Sower",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1993
+        },
+        {
+            "id": 71,
+            "authorId": 6,
+            "title": "Ubik",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1969
+        },
+        {
+            "id": 72,
+            "authorId": 7,
+            "title": "Stranger in a Strange Land",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1961
+        },
+        {
+            "id": 73,
+            "authorId": 8,
+            "title": "Fahrenheit 451",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1953
+        },
+        {
+            "id": 74,
+            "authorId": 11,
+            "title": "Solaris",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1961
+        },
+        {
+            "id": 75,
+            "authorId": 12,
+            "title": "Twenty Thousand Leagues Under the Sea",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1870
+        },
+        {
+            "id": 76,
+            "authorId": 13,
+            "title": "The Time Machine",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1895
+        },
+        {
+            "id": 77,
+            "authorId": 14,
+            "title": "Brave New World",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1932
+        },
+        {
+            "id": 78,
+            "authorId": 15,
+            "title": "The Handmaid's Tale",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1985
+        },
+        {
+            "id": 79,
+            "authorId": 16,
+            "title": "Neuromancer",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1984
+        },
+        {
+            "id": 80,
+            "authorId": 17,
+            "title": "Slaughterhouse-Five",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1969
+        },
+        {
+            "id": 81,
+            "authorId": 18,
+            "title": "Snow Crash",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1992
+        },
+        {
+            "id": 82,
+            "authorId": 23,
+            "title": "To Say Nothing of the Dog",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1997
+        },
+        {
+            "id": 83,
+            "authorId": 24,
+            "title": "Stories of Your Life and Others",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2002
+        },
+        {
+            "id": 84,
+            "authorId": 25,
+            "title": "Good Omens",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1990
+        },
+        {
+            "id": 85,
+            "authorId": 27,
+            "title": "Babel-17",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1966
+        },
+        {
+            "id": 86,
+            "authorId": 28,
+            "title": "Perdido Street Station",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2000
+        },
+        {
+            "id": 87,
+            "authorId": 29,
+            "title": "Darwin's Radio",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1999
+        },
+        {
+            "id": 88,
+            "authorId": 30,
+            "title": "The Female Man",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1975
+        },
+        {
+            "id": 89,
+            "authorId": 32,
+            "title": "Her Smoke Rose Up Forever",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1990
+        },
+        {
+            "id": 90,
+            "authorId": 34,
+            "title": "Gateway",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1977
+        },
+        {
+            "id": 91,
+            "authorId": 35,
+            "title": "Red Mars",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1992
+        },
+        {
+            "id": 92,
+            "authorId": 36,
+            "title": "Startide Rising",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1983
+        },
+        {
+            "id": 93,
+            "authorId": 37,
+            "title": "The Ship Who Sang",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1969
+        },
+        {
+            "id": 94,
+            "authorId": 38,
+            "title": "Downbelow Station",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1981
+        },
+        {
+            "id": 95,
+            "authorId": 40,
+            "title": "The Paper Menagerie and Other Stories",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2016
+        },
+        {
+            "id": 96,
+            "authorId": 45,
+            "title": "The Quantum Thief",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2010
+        },
+        {
+            "id": 97,
+            "authorId": 46,
+            "title": "Binti",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2015
+        },
+        {
+            "id": 98,
+            "authorId": 48,
+            "title": "Ninefox Gambit",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2016
+        },
+        {
+            "id": 99,
+            "authorId": 49,
+            "title": "Space Opera",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2018
+        },
+        {
+            "id": 100,
+            "authorId": 50,
+            "title": "Annihilation",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2014
+        },
+        {
+            "id": 101,
+            "authorId": 1,
+            "title": "I, Robot",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1950
+        },
+        {
+            "id": 102,
+            "authorId": 1,
+            "title": "The Caves of Steel",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1954
+        },
+        {
+            "id": 103,
+            "authorId": 2,
+            "title": "The Lathe of Heaven",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1971
+        },
+        {
+            "id": 104,
+            "authorId": 3,
+            "title": "Rendezvous with Rama",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1973
+        },
+        {
+            "id": 105,
+            "authorId": 4,
+            "title": "Dawn",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1987
+        },
+        {
+            "id": 106,
+            "authorId": 5,
+            "title": "Ball Lightning",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2004
+        },
+        {
+            "id": 107,
+            "authorId": 6,
+            "title": "The Man in the High Castle",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1962
+        },
+        {
+            "id": 108,
+            "authorId": 7,
+            "title": "Starship Troopers",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1959
+        },
+        {
+            "id": 109,
+            "authorId": 8,
+            "title": "The Martian Chronicles",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1950
+        },
+        {
+            "id": 110,
+            "authorId": 9,
+            "title": "Dirk Gently's Holistic Detective Agency",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1987
+        },
+        {
+            "id": 111,
+            "authorId": 10,
+            "title": "The Dragon in the Sea",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1956
+        },
+        {
+            "id": 112,
+            "authorId": 11,
+            "title": "The Cyberiad",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1965
+        },
+        {
+            "id": 113,
+            "authorId": 12,
+            "title": "Journey to the Center of the Earth",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1864
+        },
+        {
+            "id": 114,
+            "authorId": 13,
+            "title": "The War of the Worlds",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1898
+        },
+        {
+            "id": 115,
+            "authorId": 14,
+            "title": "Island",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1962
+        },
+        {
+            "id": 116,
+            "authorId": 15,
+            "title": "Oryx and Crake",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2003
+        },
+        {
+            "id": 117,
+            "authorId": 16,
+            "title": "Pattern Recognition",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2003
+        },
+        {
+            "id": 118,
+            "authorId": 17,
+            "title": "Cat's Cradle",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1963
+        },
+        {
+            "id": 119,
+            "authorId": 18,
+            "title": "Cryptonomicon",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1999
+        },
+        {
+            "id": 120,
+            "authorId": 19,
+            "title": "Excession",
+            "seriesId": 6,
+            "seriesNumber": 4,
+            "publicationYear": 1996
+        },
+        {
+            "id": 121,
+            "authorId": 20,
+            "title": "Wyrms",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1987
+        },
+        {
+            "id": 122,
+            "authorId": 21,
+            "title": "Ilium",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2003
+        },
+        {
+            "id": 123,
+            "authorId": 22,
+            "title": "Falling Free",
+            "seriesId": 13,
+            "seriesNumber": 4,
+            "publicationYear": 1988
+        },
+        {
+            "id": 124,
+            "authorId": 23,
+            "title": "Blackout",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2010
+        },
+        {
+            "id": 125,
+            "authorId": 24,
+            "title": "Exhalation",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2019
+        },
+        {
+            "id": 126,
+            "authorId": 25,
+            "title": "Small Gods",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1992
+        },
+        {
+            "id": 127,
+            "authorId": 26,
+            "title": "The Children of the Sky",
+            "seriesId": 16,
+            "seriesNumber": 3,
+            "publicationYear": 2011
+        },
+        {
+            "id": 128,
+            "authorId": 27,
+            "title": "Dhalgren",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1975
+        },
+        {
+            "id": 129,
+            "authorId": 28,
+            "title": "The City & The City",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2009
+        },
+        {
+            "id": 130,
+            "authorId": 29,
+            "title": "Eon",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1985
+        },
+        {
+            "id": 131,
+            "authorId": 30,
+            "title": "We Who Are About To...",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1976
+        },
+        {
+            "id": 132,
+            "authorId": 31,
+            "title": "House of Suns",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2008
+        },
+        {
+            "id": 133,
+            "authorId": 32,
+            "title": "The Screwfly Solution",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1977
+        },
+        {
+            "id": 134,
+            "authorId": 33,
+            "title": "The Integral Trees",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1984
+        },
+        {
+            "id": 135,
+            "authorId": 34,
+            "title": "Man Plus",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1976
+        },
+        {
+            "id": 136,
+            "authorId": 35,
+            "title": "Green Mars",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1993
+        },
+        {
+            "id": 137,
+            "authorId": 36,
+            "title": "The Postman",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1985
+        },
+        {
+            "id": 138,
+            "authorId": 37,
+            "title": "Dragonflight",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1968
+        },
+        {
+            "id": 139,
+            "authorId": 38,
+            "title": "The Pride of Chanur",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1981
+        },
+        {
+            "id": 140,
+            "authorId": 39,
+            "title": "Redshirts",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2012
+        },
+        {
+            "id": 141,
+            "authorId": 40,
+            "title": "The Grace of Kings",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2015
+        },
+        {
+            "id": 142,
+            "authorId": 41,
+            "title": "Provenance",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2017
+        },
+        {
+            "id": 143,
+            "authorId": 42,
+            "title": "The City We Became",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2020
+        },
+        {
+            "id": 144,
+            "authorId": 43,
+            "title": "To Be Taught, If Fortunate",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2019
+        },
+        {
+            "id": 145,
+            "authorId": 44,
+            "title": "Network Effect",
+            "seriesId": 9,
+            "seriesNumber": 5,
+            "publicationYear": 2020
+        },
+        {
+            "id": 146,
+            "authorId": 45,
+            "title": "The Fractal Prince",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2012
+        },
+        {
+            "id": 147,
+            "authorId": 46,
+            "title": "Who Fears Death",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2010
+        },
+        {
+            "id": 148,
+            "authorId": 47,
+            "title": "Artemis",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2017
+        },
+        {
+            "id": 149,
+            "authorId": 48,
+            "title": "Raven Stratagem",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2017
+        },
+        {
+            "id": 150,
+            "authorId": 50,
+            "title": "Borne",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2017
+        },
+        {
+            "id": 151,
+            "authorId": 1,
+            "title": "The Naked Sun",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1957
+        },
+        {
+            "id": 152,
+            "authorId": 2,
+            "title": "The Word for World is Forest",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1972
+        },
+        {
+            "id": 153,
+            "authorId": 3,
+            "title": "The Fountains of Paradise",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1979
+        },
+        {
+            "id": 154,
+            "authorId": 4,
+            "title": "Fledgling",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2005
+        },
+        {
+            "id": 155,
+            "authorId": 5,
+            "title": "The Wandering Earth",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2000
+        },
+        {
+            "id": 156,
+            "authorId": 6,
+            "title": "A Scanner Darkly",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1977
+        },
+        {
+            "id": 157,
+            "authorId": 7,
+            "title": "The Moon Is a Harsh Mistress",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1966
+        },
+        {
+            "id": 158,
+            "authorId": 8,
+            "title": "Something Wicked This Way Comes",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1962
+        },
+        {
+            "id": 159,
+            "authorId": 9,
+            "title": "The Long Dark Tea-Time of the Soul",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1988
+        },
+        {
+            "id": 160,
+            "authorId": 10,
+            "title": "Hellstrom's Hive",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1973
+        },
+        {
+            "id": 161,
+            "authorId": 11,
+            "title": "His Master's Voice",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1968
+        },
+        {
+            "id": 162,
+            "authorId": 12,
+            "title": "From the Earth to the Moon",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1865
+        },
+        {
+            "id": 163,
+            "authorId": 13,
+            "title": "The Invisible Man",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1897
+        },
+        {
+            "id": 164,
+            "authorId": 14,
+            "title": "Ape and Essence",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1948
+        },
+        {
+            "id": 165,
+            "authorId": 15,
+            "title": "The Year of the Flood",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2009
+        },
+        {
+            "id": 166,
+            "authorId": 16,
+            "title": "The Peripheral",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2014
+        },
+        {
+            "id": 167,
+            "authorId": 17,
+            "title": "Galápagos",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1985
+        },
+        {
+            "id": 168,
+            "authorId": 18,
+            "title": "Anathem",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2008
+        },
+        {
+            "id": 169,
+            "authorId": 19,
+            "title": "Look to Windward",
+            "seriesId": 6,
+            "seriesNumber": 5,
+            "publicationYear": 2000
+        },
+        {
+            "id": 170,
+            "authorId": 20,
+            "title": "Lost Boys",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1992
+        },
+        {
+            "id": 171,
+            "authorId": 21,
+            "title": "The Terror",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2007
+        },
+        {
+            "id": 172,
+            "authorId": 22,
+            "title": "The Vor Game",
+            "seriesId": 13,
+            "seriesNumber": 5,
+            "publicationYear": 1990
+        },
+        {
+            "id": 173,
+            "authorId": 23,
+            "title": "Doomsday Book",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1992
+        },
+        {
+            "id": 174,
+            "authorId": 24,
+            "title": "The Lifecycle of Software Objects",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2010
+        },
+        {
+            "id": 175,
+            "authorId": 25,
+            "title": "The Long Earth",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2012
+        },
+        {
+            "id": 176,
+            "authorId": 26,
+            "title": "Marooned in Realtime",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1986
+        },
+        {
+            "id": 177,
+            "authorId": 27,
+            "title": "Nova",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1968
+        },
+        {
+            "id": 178,
+            "authorId": 28,
+            "title": "Embassytown",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2011
+        },
+        {
+            "id": 179,
+            "authorId": 29,
+            "title": "Blood Music",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1985
+        },
+        {
+            "id": 180,
+            "authorId": 30,
+            "title": "And Chaos Died",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1970
+        },
+        {
+            "id": 181,
+            "authorId": 31,
+            "title": "Century Rain",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2004
+        },
+        {
+            "id": 182,
+            "authorId": 32,
+            "title": "Up the Walls of the World",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1978
+        },
+        {
+            "id": 183,
+            "authorId": 33,
+            "title": "Protector",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1973
+        },
+        {
+            "id": 184,
+            "authorId": 34,
+            "title": "Jem",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1979
+        },
+        {
+            "id": 185,
+            "authorId": 35,
+            "title": "Blue Mars",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1996
+        },
+        {
+            "id": 186,
+            "authorId": 36,
+            "title": "Earth",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1990
+        },
+        {
+            "id": 187,
+            "authorId": 37,
+            "title": "The Dragonriders of Pern",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1968
+        },
+        {
+            "id": 188,
+            "authorId": 38,
+            "title": "Cyteen",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 1988
+        },
+        {
+            "id": 189,
+            "authorId": 39,
+            "title": "Lock In",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2014
+        },
+        {
+            "id": 190,
+            "authorId": 40,
+            "title": "The Wall of Storms",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2016
+        },
+        {
+            "id": 191,
+            "authorId": 41,
+            "title": "The Raven Tower",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2019
+        },
+        {
+            "id": 192,
+            "authorId": 42,
+            "title": "The Killing Moon",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2012
+        },
+        {
+            "id": 193,
+            "authorId": 43,
+            "title": "The Galaxy, and the Ground Within",
+            "seriesId": 8,
+            "seriesNumber": 4,
+            "publicationYear": 2021
+        },
+        {
+            "id": 194,
+            "authorId": 44,
+            "title": "Fugitive Telemetry",
+            "seriesId": 9,
+            "seriesNumber": 6,
+            "publicationYear": 2021
+        },
+        {
+            "id": 195,
+            "authorId": 45,
+            "title": "Summerland",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2018
+        },
+        {
+            "id": 196,
+            "authorId": 46,
+            "title": "Remote Control",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2021
+        },
+        {
+            "id": 197,
+            "authorId": 47,
+            "title": "Project Hail Mary",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2021
+        },
+        {
+            "id": 198,
+            "authorId": 48,
+            "title": "Revenant Gun",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2018
+        },
+        {
+            "id": 199,
+            "authorId": 49,
+            "title": "The Refrigerator Monologues",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2017
+        },
+        {
+            "id": 200,
+            "authorId": 50,
+            "title": "Authority",
+            "seriesId": null,
+            "seriesNumber": null,
+            "publicationYear": 2014
+        }
+    ]
+}
