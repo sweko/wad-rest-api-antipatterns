@@ -159,13 +159,15 @@ export class LibraryService {
     }
 
     getSeriesByAuthor(authorId: number) {
-        const authorSeries = this.books
+        const seriesIds = this.books
             .filter((book) => book.authorId === authorId)
             .filter((book) => book.seriesId !== undefined)
-            .map((book) => book.seriesId)
-            .map((seriesId) => this.series.find((series) => series.id === seriesId));
-        // remove duplicates
-        return Array.from(new Set(authorSeries));
+            .map((book) => book.seriesId as number);
+        // remove duplicate ids before resolving to series objects
+        const uniqueSeriesIds = Array.from(new Set(seriesIds));
+        return uniqueSeriesIds
+            .map((seriesId) => this.series.find((series) => series.id === seriesId))
+            .filter((series): series is Series => series !== undefined);
     }
 
     getBooksByShelf(libraryId: string, floorId: string, sectionId: string, shelfId: string) {
